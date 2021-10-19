@@ -1,3 +1,3 @@
 #my calculator program
 
-https://app.travis-ci.com/np649/calcexample.svg?branch=main 
+[![Build Status](https://app.travis-ci.com/np649/calcexampleNeal.svg?branch=main)](https://app.travis-ci.com/np649/calcexampleNeal)
