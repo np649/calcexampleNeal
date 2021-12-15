@@ -1,4 +1,4 @@
-"""This is the increment function"""
+"""This is the increent function"""
 
 from calc.addition import Addition
 from calc.subtraction import Subtraction
